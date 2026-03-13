@@ -31,26 +31,6 @@ Each project will have its own **folder**, documentation,READMEs and source code
 
 ---
 
-## Repository Structure
-java-industry-projects
-│
-├── Project-1
-│   ├── src
-│   └── README.md   ← describes Project 1
-│
-├── Project-2
-│   ├── src
-│   └── README.md   ← describes Project 2
-│
-├── Project-3
-│   ├── src
-│   └── README.md   ← describes Project 3
-│
-└── README.md       ← describes the whole repository
-
-
----
-
 ## Technologies
 
 The projects in this repository primarily use:
