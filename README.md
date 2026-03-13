@@ -65,6 +65,7 @@ Through these projects I aim to strengthen:
 ## Author
 
 **Kaelin Kesavjee**  
+
 ---
 
 ⭐ This repository is part of my journey toward becoming an **industry-ready software engineer**.
